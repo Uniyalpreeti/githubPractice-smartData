@@ -6,7 +6,7 @@ function App() {
     <div>
      <h1><Comp1 /></h1>
      //Something went wrong on this project.
-     //Yha pr kie gye changes fifth branch m hme or branches m b show krwane hai.
+    
     </div>
   );
 }
