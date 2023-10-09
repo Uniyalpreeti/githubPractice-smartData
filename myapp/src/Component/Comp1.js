@@ -73,7 +73,7 @@ export const Comp1 = () => {
                             <ul>
                                 <table border="2px">
                                     <tr><td>{index + 1}</td><td>{data.name}</td><td> {data.email} </td><td>{data.password}</td>
-                                        <td><button onClick={() => del(data.name)}>Delete</button></td>
+                                        <td><button onClick={() => del(data.name)}>Deletes</button></td>
                                         <td><button onClick={() => editHandler(data, index)}>Edit</button></td>
                                     </tr>
                                 </table>
